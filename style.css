@@ -1,0 +1,48 @@
+body{
+    background-color: #251351;
+     padding: 4px 430px;
+    
+
+}
+
+.container{
+    padding:18px 40px;
+    color:#040926;
+    background-color:white;
+    font-weight: bold;
+    width:450px;
+    border-radius: 5%;
+    box-shadow: 0 0 30px grey;
+      
+   
+   
+    
+}
+.t1{
+    width:400px;
+    font-size: 17px;
+    
+    outline: 0;
+  border-width: 0 0 2px;
+  border-color:rgb(92, 90, 90);
+  background-color: #ffff;
+}
+
+.h4{
+    color: #251351;
+    font-size: 28px;
+}
+.sub{
+   margin-left: 38%;
+   font-size: 25px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #251351;
+    color: white;
+    border-radius: 10%;
+}
+.se1{
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color:rgb(92, 90, 90);
+    background-color: #ffff;
+}
